@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    background-color: #6a36a5;
+   /* background-image: url("./Images/edgar-chaparro.jpg");
+    background-size: contain;*/
+}
+
+li {
+    display: inline-block;
+    margin: 20px;
+}
+
+.nav-bar {
+display: flex;
+width: 100%;
+background-color: #e2761d;
+justify-content: center;
+
+}
+
+h1 {
+    text-align: center;
+    color:#e2761d;
+}
+
+h2{
+    color:white;
+}
+
+p {
+   /*p color: black;
+    background-color: white;
+    */
+    color: white;
+    font-size: 20px;;
+}
+
+.gallery-items{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+
+.img-1{
+height: 400px;
+width: 400px;
+}
+
+.herd-div{
+    display: flex;
+    justify-content: center;
+}
+
+.edgar{
+    height: 500px;
+    width: 400px;
+}
+.footer{
+    display: flex;
+    background-color: #e2761d;
+    margin-top: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
